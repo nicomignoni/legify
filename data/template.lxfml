@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="4" versionMinor="0" name="template">
+  <Meta>
+    <Application name="LEGO Digital Designer" versionMajor="4" versionMinor="3"/>
+    <Brand name="LDD"/>
+    <BrickSet version="777"/>
+  </Meta>
+  <Cameras>
+    <Camera refID="0" fieldOfView="80" distance="19.282051086425781" angle="48.697345733642578" ax="-0.99408245086669922" ay="-0.099065259099006653" az="-0.044565740972757339" tx="-1.1445842981338501" ty="14.428545951843262" tz="12.739877700805664"/>
+  </Cameras>
+  <Scene cameraRefID="0">
+    <Model>
+      <Group refID="0" angle="0" ax="0" ay="0" az="0" tx="0" ty="0" tz="0">
+       
+      </Group>
+    </Model>
+  </Scene>
+  <BuildingInstructions>
+  </BuildingInstructions>
+</LXFML>

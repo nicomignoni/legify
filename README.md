@@ -7,4 +7,4 @@ The conversion is made using LEGO 1x1 ([part](https://www.bricklink.com/v2/catal
 
 <p align="center"><img src="https://latex.codecogs.com/gif.latex?c_n%20%3D%20%5Ctext%7Barg%7D%5Cmin_%7Bc_i%7D%7B%7C%7Cc_i%20-%20c_o%7C%7C%7D"></p>
 
-for each pixel in the image
+for each pixel in the image.

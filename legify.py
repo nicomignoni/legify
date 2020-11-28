@@ -4,7 +4,7 @@ import numpy as np
 from math import floor
 
 class Legify:
-    def __init__(self, file_path='file.lxfml', image_path='test.jpg', scale=0.5):
+    def __init__(self, file_path='docs/test.lxfml', image_path='docs/test.jpg', scale=0.5):
         self.file_path = file_path
         full_image     = cv2.imread(image_path)
         full_image     = cv2.cvtColor(full_image, cv2.COLOR_BGR2RGB)

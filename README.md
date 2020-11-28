@@ -12,4 +12,5 @@ The conversion is made using LEGO 1x1 ([part](https://www.bricklink.com/v2/catal
 </p>
 
 for each pixel in the image.
+
 The script returns a .lxfml file (older than the current .lxf) to be opened in LDD
